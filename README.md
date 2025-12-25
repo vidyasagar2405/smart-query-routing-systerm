@@ -1,5 +1,3 @@
-# n8n-Automation-Smart-Query-Routing-Systerm-using-n8n-LLM-Sentiment-Analysis
-
 ## 🚀 Smart Query Routing System using n8n + LLM + Sentiment Analysis
 
 This repository contains the complete workflow for an **AI-driven smart query routing system** built using **n8n**, **Google Gemini LLM**, and **Sentiment Analysis**.
@@ -77,4 +75,4 @@ The system automatically classifies student queries, identifies urgency, and rou
 
 
 ## Demo Video
-[demo video](https://youtu.be/fwHUJewatsk)
+## [Video](https://youtu.be/fwHUJewatsk)
